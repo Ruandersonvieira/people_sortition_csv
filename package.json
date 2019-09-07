@@ -1,4 +1,9 @@
 {
+  "name": "gostack-react-github",
+  "license": "MIT",
+  "scripts": {
+    "sort": "node index.js"
+  },
   "dependencies": {
     "csv-parser": "^2.3.0"
   }
